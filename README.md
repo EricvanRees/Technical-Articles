@@ -268,6 +268,9 @@
 ## NavVis
 - [Indoor positioning: the catalyst for augmented reality in your digital factory](https://www.navvis.com/blog/indoor-positioning-catalyst-for-augmented-reality)
 
+## Packt Publishing
+- [Mastering Geospatial Analysis with Python, book co-author](https://www.packtpub.com/en-ec/product/mastering-geospatial-analysis-with-python-9781788293334?srsltid=AfmBOorKQplHQC-vgALJcLM0ewqb7KtDVIysy90wQblSU_-ZylhryuZC)
+
 ## Routescene
 - [What is UAV LiDAR?](https://www.routescene.com/resources/what-is-uav-lidar/)
 
